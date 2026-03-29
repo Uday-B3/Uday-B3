@@ -4,35 +4,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
-  
-<table border="1" cellpadding="16" cellspacing="0" width="90%">
-  <tr>
-        <td align="center" width="50%">
-      <b>👁️ Profile Views</b><br/><br/>
-      <a href="https://github.com/Uday-B3">
-        <img src="https://komarev.com/ghpvc/?username=Uday-B3&label=Profile+Views&color=1f6feb&style=for-the-badge&labelColor=0d1117" height="38" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <b>🌐 Portfolio</b><br/><br/>
-      <a href="https://uday-b3.github.io/" target="_blank">
-        <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%230969da.svg?style=for-the-badge&logo=googlechrome&logoColor=white" height="38" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
+</br>
 
 <table border="1" cellpadding="20" cellspacing="0" width="90%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="60%" valign="top">
       <h3>👨‍💻 Who am I?</h3>
       <p>
-        I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clean, scalable, and efficient web applications.
+I’m Uday Bodana, a Full Stack Developer focused on building clean, scalable, and efficient web applications. I enjoy creating intuitive and user-friendly interfaces.
       </p>
       <br/>
       <ul>
@@ -43,7 +22,11 @@
         <li>📫 &nbsp;Reach me at </li>
       </ul>
     </td>
-    <td width="50%" valign="middle" align="center">
+    <td width="40%" valign="middle" align="center">
+        <a href="https://github.com/Uday-B3"><img src="https://komarev.com/ghpvc/?username=Uday-B3&label=Profile+Views&color=1f6feb&style=for-the-badge&labelColor=0d1117" height="38" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://uday-b3.github.io/" target="_blank">
+        <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%230969da.svg?style=for-the-badge&logo=googlechrome&logoColor=white" height="38" />
+      </a>
       <img src="./update-coding.gif" width="95%" alt="Coding GIF" />
     </td>
   </tr>
