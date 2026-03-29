@@ -8,7 +8,7 @@
 
 <table border="1" cellpadding="20" cellspacing="0" width="90%">
   <tr>
-    <td width="52%" valign="top">
+    <td width="53%" valign="top">
       <h3>👨💻 Who am I?</h3>
       <p>
 I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clean, scalable, and efficient web applications. I enjoy creating intuitive user interfaces and optimizing performance. &nbsp;🚀
@@ -22,12 +22,12 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
         <li>📫 &nbsp;Reach me at <a href="mailto:uday.bodana.dev@gmail.com"><b>uday.bodana.dev@gmail.com</b></a></li>
       </ul>
     </td>
-    <td width="48%" valign="middle" align="center">
+    <td width="47%" valign="middle" align="center">
         <a href="https://github.com/Uday-B3"><img src="https://komarev.com/ghpvc/?username=Uday-B3&label=Profile+Views&color=1f6feb&style=for-the-badge&labelColor=0d1117" height="38" /></a>&nbsp;&nbsp;
       <a href="https://uday-b3.github.io/" target="_blank">
         <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%230969da.svg?style=for-the-badge&logo=googlechrome&logoColor=white" height="38" />
       </a>
-      <img src="./update-coding.gif" width="95%" alt="Coding GIF" />
+      <img src="./update-coding.gif" width="85%" alt="Coding GIF" />
     </td>
   </tr>
 </table>
