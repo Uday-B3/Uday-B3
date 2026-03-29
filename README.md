@@ -2,13 +2,13 @@
 <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=2500&pause=1500&center=true&vCenter=true&width=500&height=70&lines=Hi+There+👋;I'm+Uday+Bodana;🚀+Full+Stack+Developer" alt="Typing SVG" /></a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1033,50:2d1b55,100:1a1033&height=3" width="100%">
 
 <div align="center">
   
 <table border="1" cellpadding="16" cellspacing="0" width="90%">
   <tr>
-        <td align="center" width="50%">
+    <td align="center" width="50%">
       <b>👁️ Profile Views</b><br/><br/>
       <a href="https://github.com/Uday-B3">
         <img src="https://komarev.com/ghpvc/?username=Uday-B3&label=Profile+Views&color=1f6feb&style=for-the-badge&labelColor=0d1117" height="38" />
@@ -25,11 +25,11 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1033,50:2d1b55,100:1a1033&height=3" width="100%">
 
 <table border="1" cellpadding="20" cellspacing="0" width="90%">
   <tr>
-    <td width="55%" valign="top">
+    <td valign="top">
       <h3>👨‍💻 Who am I?</h3>
       <p>
         I'm <b>Uday Bodana</b>, a passionate <b>Full Stack Developer</b> who loves crafting immersive, scalable and high-performance web applications. I thrive on turning complex ideas into clean, elegant solutions that make a real impact.
@@ -43,13 +43,13 @@
         <li>📫 &nbsp;Reach me at <b>udaybodana22@gmail.com</b></li>
       </ul>
     </td>
-    <td width="45%" valign="middle" align="center">
-      <img src="./update-coding.gif" width="95%" alt="Coding GIF" />
+    <td valign="middle" align="center">
+      <img src="./update-coding.gif" width="100%" alt="Coding GIF" />
     </td>
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1033,50:2d1b55,100:1a1033&height=3" width="100%">
 
 ### 🛠️ &nbsp;Technologies & Tools
 <br>
@@ -69,7 +69,7 @@
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1033,50:2d1b55,100:1a1033&height=3" width="100%">
 
 ### 🚀 &nbsp;Featured Projects
 <br>
@@ -118,7 +118,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1033,50:2d1b55,100:1a1033&height=3" width="100%">
 
 ### 🤝 Let's Connect
 
@@ -151,11 +151,11 @@
 
 <br/>
 
- *"Great things are built by people who connect, collaborate, and create together."*
+*"Great things are built by people who connect, collaborate, and create together."*
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1033,50:2d1b55,100:1a1033&height=3" width="100%">
 
 <div align="center">
 
@@ -165,18 +165,16 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1033,50:2d1b55,100:1a1033&height=3" width="100%">
 
-<!-- Animated Header -->
 <div align="center">
-  <picture width="100%">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"> 
-        <!-- Fallback -->
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1033,50:2d1b55,100:1a1033&height=100&section=footer" width="100%">
