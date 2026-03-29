@@ -9,17 +9,19 @@
 <table border="1" cellpadding="20" cellspacing="0" width="90%">
   <tr>
     <td width="53%" valign="top">
-      <h3>👨💻 Who am I?</h3>
+      <h3>👨‍💻 Who am I?</h3>
       <p>
-I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clean, scalable, and efficient web applications. I enjoy creating intuitive user interfaces and optimizing performance. &nbsp;🚀
+I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clean, scalable, and efficient web applications. &nbsp;🚀
       </p>
       <br/>
       <ul>
+        <li>🎓 &nbsp;Final Year <b>B.Tech (CSE)</b> student at <a href="https://www.iiitn.ac.in"><b>IIIT Nagpur</b></a></li>
         <li>🌱 &nbsp;Currently exploring <b>Full Stack Development</b></li>
         <li>💡 &nbsp;Developing scalable <b>web applications and APIs</b></li>
         <li>💬 &nbsp;Ask me about <b>JavaScript, React, Node.js, and MongoDB</b></li>
         <li>⚡ &nbsp;Focused on <b>clean, efficient, and maintainable code</b></li>
         <li>📫 &nbsp;Reach me at <a href="mailto:uday.bodana.dev@gmail.com"><b>uday.bodana.dev@gmail.com</b></a></li>
+      </br>
       </ul>
     </td>
     <td width="47%" valign="middle" align="center">
@@ -133,8 +135,6 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
 </table>
 
 <br/>
-
- *"Great things are built by people who connect, collaborate, and create together."*
 
 </div>
 
