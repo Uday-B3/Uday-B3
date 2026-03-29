@@ -23,7 +23,7 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
       </ul>
     </td>
     <td width="45%" valign="middle" align="center">
-        <a href="https://github.com/Uday-B3"><img src="https://komarev.com/ghpvc/?username=Uday-B3&label=Profile+Views&color=1f6feb&style=for-the-badge&labelColor=0d1117" height="38" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/Uday-B3"><img src="https://komarev.com/ghpvc/?username=Uday-B3&label=Profile+Views&color=1f6feb&style=for-the-badge&labelColor=0d1117" height="38" /></a>&nbsp;&nbsp;
       <a href="https://uday-b3.github.io/" target="_blank">
         <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%230969da.svg?style=for-the-badge&logo=googlechrome&logoColor=white" height="38" />
       </a>
