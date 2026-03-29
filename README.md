@@ -25,9 +25,9 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
       </ul>
     </td>
     <td width="47%" valign="middle" align="center">
-        <a href="https://github.com/Uday-B3"><img src="https://komarev.com/ghpvc/?username=Uday-B3&label=Profile+Views&color=1f6feb&style=for-the-badge&labelColor=0d1117" height="38" /></a>&nbsp;&nbsp;
+        <a href="https://github.com/Uday-B3"><img src="https://komarev.com/ghpvc/?username=Uday-B3&label=Profile+Views&color=1f6feb&style=for-the-badge&labelColor=0d1117" height="28" /></a>&nbsp;&nbsp;
       <a href="https://uday-b3.github.io/" target="_blank">
-        <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%230969da.svg?style=for-the-badge&logo=googlechrome&logoColor=white" height="38" />
+        <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%230969da.svg?style=for-the-badge&logo=googlechrome&logoColor=white" height="28" />
       </a>
       <img src="./update-coding.gif" width="85%" alt="Coding GIF" />
     </td>
@@ -113,19 +113,25 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
 
 <table border="1" cellpadding="20" cellspacing="0" width="90%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <b>💼 LinkedIn</b><br/><br/>
       <a href="https://www.linkedin.com/in/uday-b-5a64903a2/" target="_blank">
         <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <b>📧 Gmail</b><br/><br/>
       <a href="mailto:udaybodana22@gmail.com">
         <img src="https://img.shields.io/badge/Send%20an%20Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="38" />
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
+      <b>🔆 GitHub</b><br/><br/>
+      <a href="https://github.com/Uday-B3" target="_blank">
+        <img src="https://img.shields.io/badge/Follow%20on%20GitHub-%0d5703.svg?style=for-the-badge&logo=github&logoColor=white" height="38" />
+      </a>
+    </td>
+        <td align="center" width="25%">
       <b>🌐 Portfolio</b><br/><br/>
       <a href="https://uday-b3.github.io/" target="_blank">
         <img src="https://img.shields.io/badge/Visit%20Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=firefox&logoColor=white" height="38" />
