@@ -1,22 +1,16 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00B894&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;Building+Scalable+Web+Apps;Crafting+Pixel-Perfect+UIs;Writing+Clean+%26+Semantic+Code" alt="Typing SVG" />
-  </a>
-</h3>
-
-</div>
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=2500&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+There%F0%9F%91%8B;I+am+Uday+Bodana" alt="Typing SVG" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
-<p align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now_%F0%9F%8C%90-1f6feb?style=for-the-badge&labelColor=0d1117)](https://uday-b3.github.io/)&nbsp;&nbsp;&nbsp;
-[![Views](https://komarev.com/ghpvc/?username=Uday-B3&label=Profile+Views&color=1f6feb&style=for-the-badge&labelColor=0d1117)](https://github.com/Uday-B3)
+<br/><br/>
 
-</p>
-<br/>
+[![Views](https://komarev.com/ghpvc/?username=Uday-B3&label=Profile+Views&color=1f6feb&style=for-the-badge&labelColor=0d1117)](https://github.com/Uday-B3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now_%F0%9F%8C%90-white?style=for-the-badge&labelColor=20a10a)](https://uday-b3.github.io/)
+
+
+</div>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
