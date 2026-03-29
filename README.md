@@ -32,15 +32,15 @@
     <td width="50%" valign="top">
       <h3>👨‍💻 Who am I?</h3>
       <p>
-        I'm <b>Uday Bodana</b>, a passionate <b>Full Stack Developer</b> who loves crafting immersive, scalable and high-performance web applications.
+        I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clean, scalable, and efficient web applications.
       </p>
       <br/>
       <ul>
-        <li>🔭 &nbsp;Currently building <b>Full Stack Web Apps</b> using modern frameworks</li>
-        <li>🌱 &nbsp;Deepening expertise in <b>Next.js, System Design & DSA</b></li>
-        <li>💼 &nbsp;Proficient in the complete <b>MERN Stack</b> ecosystem</li>
-        <li>⚡ &nbsp;Passionate about <b>clean code</b>, <b>performance</b> & <b>pixel-perfect UI</b></li>
-        <li>📫 &nbsp;Reach me at <b>udaybodana22@gmail.com</b></li>
+        <li>🌱 &nbsp;Currently exploring <b>Full Stack Development</b></li>
+        <li>💡 &nbsp;Developing scalable <b>web applications and APIs</b></li>
+        <li>💬 &nbsp;Ask me about <b>JavaScript, React, Node.js, and MongoDB</b></li>
+        <li>⚡ &nbsp;Focused on <b>clean, efficient, and maintainable code</b></li>
+        <li>📫 &nbsp;Reach me at </li>
       </ul>
     </td>
     <td width="50%" valign="middle" align="center">
