@@ -1,9 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&color=018508&height=3" width="100%">
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=2500&pause=1500&center=true&vCenter=true&width=500&height=70&lines=Hi+There+👋;I'm+Uday+Bodana;🚀+Full+Stack+Developer" alt="Typing SVG" /></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1033,50:2d1b55,100:1a1033&height=3" width="100%">
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=018508&height=3" width="100%">
 <div align="center">
   
 <table border="1" cellpadding="16" cellspacing="0" width="90%">
@@ -25,7 +26,17 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1033,50:2d1b55,100:1a1033&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:241875,50:4338CA,100:241875&height=5" width="100%">
+
+### 🧑‍💻 &nbsp;About Me
+
+<br/>
+
+<div align="center">
+  <img src="./update-coding.gif" width="60%" alt="Coding GIF" />
+</div>
+
+<br/>
 
 <table border="1" cellpadding="20" cellspacing="0" width="90%">
   <tr>
@@ -43,13 +54,10 @@
         <li>📫 &nbsp;Reach me at <b>udaybodana22@gmail.com</b></li>
       </ul>
     </td>
-    <td valign="middle" align="center">
-      <img src="./update-coding.gif" width="100%" alt="Coding GIF" />
-    </td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1033,50:2d1b55,100:1a1033&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:241875,50:4338CA,100:241875&height=5" width="100%">
 
 ### 🛠️ &nbsp;Technologies & Tools
 <br>
@@ -69,7 +77,7 @@
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1033,50:2d1b55,100:1a1033&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:241875,50:4338CA,100:241875&height=5" width="100%">
 
 ### 🚀 &nbsp;Featured Projects
 <br>
@@ -118,7 +126,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1033,50:2d1b55,100:1a1033&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:241875,50:4338CA,100:241875&height=5" width="100%">
 
 ### 🤝 Let's Connect
 
@@ -155,7 +163,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1033,50:2d1b55,100:1a1033&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:018508,50:018508,100:018508&height=0.5" width="100%">
 
 <div align="center">
 
@@ -165,7 +173,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1033,50:2d1b55,100:1a1033&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:241875,50:4338CA,100:241875&height=5" width="100%">
 
 <div align="center">
   <picture>
@@ -177,4 +185,4 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1033,50:2d1b55,100:1a1033&height=100&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:241875,50:4338CA,100:241875&height=100&section=footer" width="100%">
