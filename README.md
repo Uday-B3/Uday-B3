@@ -8,10 +8,10 @@
 
 <table border="1" cellpadding="20" cellspacing="0" width="90%">
   <tr>
-    <td width="60%" valign="top">
-      <h3>👨‍💻 Who am I?</h3>
+    <td width="55%" valign="top">
+      <h3>👨💻 Who am I?</h3>
       <p>
-I’m Uday Bodana, a Full Stack Developer focused on building clean, scalable, and efficient web applications. I enjoy creating intuitive and user-friendly interfaces.
+I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clean, scalable, and efficient web applications. I enjoy creating intuitive user interfaces and optimizing performance. &nbsp;🚀
       </p>
       <br/>
       <ul>
@@ -19,10 +19,10 @@ I’m Uday Bodana, a Full Stack Developer focused on building clean, scalable, a
         <li>💡 &nbsp;Developing scalable <b>web applications and APIs</b></li>
         <li>💬 &nbsp;Ask me about <b>JavaScript, React, Node.js, and MongoDB</b></li>
         <li>⚡ &nbsp;Focused on <b>clean, efficient, and maintainable code</b></li>
-        <li>📫 &nbsp;Reach me at </li>
+        <li>📫 &nbsp;Reach me at <a href="mailto:uday.bodana.dev@gmail.com"><b>uday.bodana.dev@gmail.com</b></a></li>
       </ul>
     </td>
-    <td width="40%" valign="middle" align="center">
+    <td width="45%" valign="middle" align="center">
         <a href="https://github.com/Uday-B3"><img src="https://komarev.com/ghpvc/?username=Uday-B3&label=Profile+Views&color=1f6feb&style=for-the-badge&labelColor=0d1117" height="38" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://uday-b3.github.io/" target="_blank">
         <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%230969da.svg?style=for-the-badge&logo=googlechrome&logoColor=white" height="38" />
