@@ -148,7 +148,7 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-B3&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=7aa2f7&area=true&area_color=1f2335&title_color=7aa2f7&text_color=ffffff&hide_border=true&height=300" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=udaybodanax&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=7aa2f7&area=true&area_color=1f2335&title_color=7aa2f7&text_color=ffffff&hide_border=true&height=300" />
 
 </div>
 
