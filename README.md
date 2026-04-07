@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Uday+Bodana!;🚀+Full+Stack+Developer+from+India" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Uday+Bodana!;🚀+Full+Stack+Developer+from+India" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -146,8 +146,11 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+### 🏆 GitHub Analytics
 <div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=udaybodanax&background=161b2280&hide_border=true&stroke=00000000&ring=00f2fe&fire=00f2fe&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=00000000&border_radius=15" alt="GitHub Streak" width="40%" />
+  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaybodanax&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=7aa2f7&area=true&area_color=1f2335&title_color=7aa2f7&text_color=ffffff&hide_border=true&height=300" />
 
 </div>
