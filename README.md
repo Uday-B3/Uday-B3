@@ -149,7 +149,7 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
 ### 🏆 GitHub Analytics
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=udaybodanax&background=161b2280&hide_border=true&stroke=00000000&ring=00f2fe&fire=00f2fe&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=00000000&border_radius=15" alt="GitHub Streak" width="40%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=udaybodanax&background=161b2280&hide_border=true&stroke=00000000&ring=00f2fe&fire=00f2fe&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=00000000&border_radius=15" alt="GitHub Streak" width="60%" />
   
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaybodanax&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=7aa2f7&area=true&area_color=1f2335&title_color=7aa2f7&text_color=ffffff&hide_border=true&height=300" />
 
