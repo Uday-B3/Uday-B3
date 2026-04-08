@@ -115,25 +115,25 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
   <tr>
     <td align="center" width="25%">
       <b>💼 LinkedIn</b><br/><br/>
-      <a href="https://www.linkedin.com/in/uday-b-5a64903a2/" target="_blank">
+      <a href="https://www.linkedin.com/in/uday-bodana-in/" target="_blank">
         <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
       </a>
     </td>
     <td align="center" width="25%">
       <b>📧 Gmail</b><br/><br/>
-      <a href="mailto:udaybodana22@gmail.com">
+      <a href="mailto:uday.bodana.dev@gmail.com">
         <img src="https://img.shields.io/badge/Send%20an%20Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="38" />
       </a>
     </td>
     <td align="center" width="25%">
       <b>🔆 GitHub</b><br/><br/>
-      <a href="https://github.com/Uday-B3" target="_blank">
+      <a href="https://github.com/udaybodanax" target="_blank">
         <img src="https://img.shields.io/badge/Follow%20on%20GitHub-%0d5703.svg?style=for-the-badge&logo=github&logoColor=white" height="38" />
       </a>
     </td>
         <td align="center" width="25%">
       <b>🌐 Portfolio</b><br/><br/>
-      <a href="https://uday-b3.github.io/" target="_blank">
+      <a href="https://github.com/udaybodanax" target="_blank">
         <img src="https://img.shields.io/badge/Visit%20Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=firefox&logoColor=white" height="38" />
       </a>
     </td>
