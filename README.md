@@ -37,38 +37,45 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="center">🛠️ &nbsp;Technologies & Tools</h3>
-
+<h3 align="center">⚡Tech Stack</h3>
 <div align="center">
 
-<table border="1" cellpadding="10" cellspacing="0">
-  <tr>
-    <td align="center">
-      <h4><b>🌐 Frontend & Backend</b></h4>
-      <div>
-          <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="55" /></a> &nbsp;&nbsp;
-          <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" width="55" /></a> &nbsp;&nbsp;
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="55" /></a> &nbsp;&nbsp;
-          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" width="55" /></a> &nbsp;&nbsp;
-          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="55" /></a> &nbsp;&nbsp;
-          <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="55" /></a> &nbsp;&nbsp;
-          <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" width="55" /></a> &nbsp;&nbsp;
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center">🌐 Frontend & Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+          <br/>
+          <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="55" /></a> &nbsp;&nbsp;&nbsp;
+          <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" width="55" /></a> &nbsp;&nbsp;&nbsp;
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="55" /></a> &nbsp;&nbsp;&nbsp;
+          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" width="55" /></a> &nbsp;&nbsp;&nbsp;
+          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="55" /></a> &nbsp;&nbsp;&nbsp;
+          <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="55" /></a> &nbsp;&nbsp;&nbsp;
+          <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" width="55" /></a> &nbsp;&nbsp;&nbsp;
           <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" width="55" /></a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h4><b>💻 Languages & Tools</b></h4>
-      <div>
-          <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" width="55" /></a> &nbsp;&nbsp;
-          <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="55" /></a> &nbsp;&nbsp;
-          <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" width="55" /></a> &nbsp;&nbsp;
-          <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="55" /></a> &nbsp;&nbsp;
+          <br/><br/>
+      </td>
+    </tr>
+    <tr>
+      <th align="center">💻 Languages & Tools</th>
+    </tr>
+    <tr>
+      <td align="center">
+          <br/>
+          <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" width="55" /></a> &nbsp;&nbsp;&nbsp;
+          <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="55" /></a> &nbsp;&nbsp;&nbsp;
+          <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" width="55" /></a> &nbsp;&nbsp;&nbsp;
+          <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="55" /></a> &nbsp;&nbsp;&nbsp;
           <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="55" /></a>
-      </div>
-    </td>
-  </tr>
+          <br/><br/>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 </div>
@@ -76,7 +83,6 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h3 align="center">🚀 &nbsp;Featured Projects</h3>
-<br>
 <table width="100%">
   <thead>
     <tr>
@@ -125,9 +131,6 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h3 align="center">🤝 Let's Connect</h3>
-
-<br/>
-
 <div align="center">
 
 <table border="1" cellpadding="20" cellspacing="0" width="90%">
