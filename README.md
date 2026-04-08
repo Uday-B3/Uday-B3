@@ -37,46 +37,45 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🛠️ &nbsp;Technologies & Tools
+<h3 align="center">🛠️ &nbsp;Technologies & Tools</h3>
 
 <div align="center">
-<br/>
 
-<h4><b>🌐 Frontend</b></h4>
-<p align="center">
-    <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" /></a> &nbsp;&nbsp;
-    <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" /></a> &nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a> &nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" /></a> &nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" /></a>
-</p>
+<table border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center">
+      <h4><b>🌐 Frontend & Backend</b></h4>
+      <div>
+          <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="55" /></a> &nbsp;&nbsp;
+          <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" width="55" /></a> &nbsp;&nbsp;
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="55" /></a> &nbsp;&nbsp;
+          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" width="55" /></a> &nbsp;&nbsp;
+          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="55" /></a> &nbsp;&nbsp;
+          <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="55" /></a> &nbsp;&nbsp;
+          <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" width="55" /></a> &nbsp;&nbsp;
+          <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" width="55" /></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4><b>💻 Languages & Tools</b></h4>
+      <div>
+          <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" width="55" /></a> &nbsp;&nbsp;
+          <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="55" /></a> &nbsp;&nbsp;
+          <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" width="55" /></a> &nbsp;&nbsp;
+          <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="55" /></a> &nbsp;&nbsp;
+          <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="55" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<h4><b>⚙️ Backend & Database</b></h4>
-<p align="center">
-    <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" /></a> &nbsp;&nbsp;
-    <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" /></a> &nbsp;&nbsp;
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" /></a>
-</p>
-
-<h4><b>💻 Programming Languages</b></h4>
-<p align="center">
-    <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" /></a> &nbsp;&nbsp;
-    <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" /></a> &nbsp;&nbsp;
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" /></a>
-</p>
-
-<h4><b>🛠️ Tools</b></h4>
-<p align="center">
-    <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a> &nbsp;&nbsp;
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" /></a>
-</p>
-
-<br/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🚀 &nbsp;Featured Projects
+<h3 align="center">🚀 &nbsp;Featured Projects</h3>
 <br>
 <table width="100%">
   <thead>
@@ -125,7 +124,7 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🤝 Let's Connect
+<h3 align="center">🤝 Let's Connect</h3>
 
 <br/>
 
@@ -166,7 +165,7 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🏆 GitHub Analytics
+<h3 align="center">🏆 GitHub Analytics</h3>
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaybodanax&background=161b2280&hide_border=true&stroke=00000000&ring=00f2fe&fire=00f2fe&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=00000000&border_radius=15" alt="GitHub Streak" width="50%" />
