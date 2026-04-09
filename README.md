@@ -161,10 +161,18 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
     </td>
   </tr>
 </table>
-
-<br>
+  <strong>⚡ Let's connect and build something amazing together!</strong>
+<br><br>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h3 align="center">💡 Dev Quote of the Day</h3>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
