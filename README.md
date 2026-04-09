@@ -56,8 +56,7 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
           <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" width="55" /></a> &nbsp;&nbsp;&nbsp;
           <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="55" /></a> &nbsp;&nbsp;&nbsp;
           <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" width="55" /></a> &nbsp;&nbsp;&nbsp;
-          <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" width="55" /></a>
-          <br><br>
+          <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" width="55" /></a> &nbsp;&nbsp;&nbsp;
           <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="55" /></a> &nbsp;&nbsp;&nbsp;
           <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" width="55" /></a> &nbsp;&nbsp;&nbsp;
           <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="55" /></a> &nbsp;&nbsp;&nbsp;
