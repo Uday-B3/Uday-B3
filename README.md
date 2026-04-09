@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-</br>
+<br>
 
 <table border="1" cellpadding="20" cellspacing="0" width="90%">
   <tr>
@@ -13,7 +13,7 @@
       <p>
 I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clean, scalable, and efficient web applications. &nbsp;🚀
       </p>
-      <br/>
+      <br>
       <ul>
         <li>🎓 &nbsp;Final Year <b>B.Tech (CSE)</b> student at <a href="https://www.iiitn.ac.in"><b>IIIT Nagpur</b></a></li>
         <li>🌱 &nbsp;Currently exploring <b>Full Stack Development</b></li>
@@ -21,19 +21,19 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
         <li>💬 &nbsp;Ask me about <b>JavaScript, React, Node.js, and MongoDB</b></li>
         <li>⚡ &nbsp;Focused on <b>clean, efficient, and maintainable code</b></li>
         <li>📫 &nbsp;Reach me at <a href="mailto:uday.bodana.dev@gmail.com"><b>uday.bodana.dev@gmail.com</b></a></li>
-      </br>
+      <br>
       </ul>
     </td>
     <td width="47%" valign="middle" align="center">
-        <a href="https://github.com/Uday-B3"><img src="https://komarev.com/ghpvc/?username=Uday-B3&label=Profile+Views&color=1f6feb&style=for-the-badge&labelColor=0d1117" height="28" /></a>&nbsp;&nbsp;
-      <a href="https://uday-b3.github.io/" target="_blank">
+        <a href="https://github.com/udaybodanax"><img src="https://komarev.com/ghpvc/?username=udaybodanax&label=Profile+Views&color=1f6feb&style=for-the-badge&labelColor=0d1117" height="28" /></a>&nbsp;&nbsp;
+      <a href="https://github.com/udaybodanax" target="_blank">
         <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%230969da.svg?style=for-the-badge&logo=googlechrome&logoColor=white" height="28" />
       </a>
       <img src="./update-coding.gif" width="85%" alt="Coding GIF" />
     </td>
   </tr>
 </table>
-</br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -49,7 +49,7 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
   <tbody>
     <tr>
       <td align="center">
-          <br/>
+          <br>
           <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="55" /></a> &nbsp;&nbsp;&nbsp;
           <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" width="55" /></a> &nbsp;&nbsp;&nbsp;
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="55" /></a> &nbsp;&nbsp;&nbsp;
@@ -66,13 +66,13 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
     </tr>
     <tr>
       <td align="center">
-          <br/>
+          <br>
           <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" width="55" /></a> &nbsp;&nbsp;&nbsp;
           <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="55" /></a> &nbsp;&nbsp;&nbsp;
           <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" width="55" /></a> &nbsp;&nbsp;&nbsp;
           <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="55" /></a> &nbsp;&nbsp;&nbsp;
           <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="55" /></a>
-          <br/><br/>
+          <br><br>
       </td>
     </tr>
   </tbody>
@@ -126,7 +126,7 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
   </tbody>
 </table>
 
-<br/>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -136,25 +136,25 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
 <table border="1" cellpadding="20" cellspacing="0" width="90%">
   <tr>
     <td align="center" width="25%">
-      <b>💼 LinkedIn</b><br/><br/>
+      <b>💼 LinkedIn</b><br><br>
       <a href="https://www.linkedin.com/in/uday-bodana-in/" target="_blank">
         <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
       </a>
     </td>
     <td align="center" width="25%">
-      <b>📧 Gmail</b><br/><br/>
+      <b>📧 Gmail</b><br><br>
       <a href="mailto:uday.bodana.dev@gmail.com">
         <img src="https://img.shields.io/badge/Send%20an%20Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="38" />
       </a>
     </td>
     <td align="center" width="25%">
-      <b>🔆 GitHub</b><br/><br/>
+      <b>🔆 GitHub</b><br><br>
       <a href="https://github.com/udaybodanax" target="_blank">
         <img src="https://img.shields.io/badge/Follow%20on%20GitHub-%0d5703.svg?style=for-the-badge&logo=github&logoColor=white" height="38" />
       </a>
     </td>
         <td align="center" width="25%">
-      <b>🌐 Portfolio</b><br/><br/>
+      <b>🌐 Portfolio</b><br><br>
       <a href="https://github.com/udaybodanax" target="_blank">
         <img src="https://img.shields.io/badge/Visit%20Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=firefox&logoColor=white" height="38" />
       </a>
@@ -162,7 +162,7 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
   </tr>
 </table>
 
-<br/>
+<br>
 
 </div>
 
@@ -177,20 +177,19 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
 
 </div>
 
-<br/>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Animated Header -->
+
 <div align="center">
   <picture width="100%">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"> 
-        <!-- Fallback -->
      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
   </picture>
 </div>
 
-<br/>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
